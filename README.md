@@ -1,3 +1,1 @@
-# ENGR101_PROJ3
-
-Refer to the Master branch for actual program
+# ENGR101_Project 3
